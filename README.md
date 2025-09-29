@@ -1,3 +1,11 @@
+
+# ⚡ Manifesto
+
+“Yapay zekâyı reddeden, arabalar çıkmışken atla taşımacılığa devam eden gibidir.”
+
+
+
+
 ## 🌍 Bu Yazı Kimin İçin?
 
 Bu manifesto sadece yazılımcılara, mühendislere veya teknik insanlara değil.  
@@ -112,3 +120,11 @@ Yapay zekâyı reddetmek → arabalar çıkmışken hâlâ atla taşımacılığ
 ✅ Çağa ayak uydur.  
 
 Çünkü gelecek, **insan + yapay zekâ hibritinde.** 🚀
+
+
+---
+
+## ❓ Sizi Düşündürmek İçin
+
+👉 Sizce yapay zekâ hangi alanda insan + makine hibritiyle en büyük sıçramayı yapacak?
+
