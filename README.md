@@ -1,3 +1,21 @@
+## 🌍 Bu Yazı Kimin İçin?
+
+Bu manifesto sadece yazılımcılara, mühendislere veya teknik insanlara değil.  
+Yapay zekâ gelecekte herkesin hayatına dokunacak: işçiden öğretmene, girişimciden sanatçıya kadar…  
+
+Buradaki örnekler basit: uçak, araba, at arabası.  
+Çünkü mesele karmaşık formüller değil, **hayatı nasıl yaşadığımız**.  
+
+Yapay zekâ, yeni bir çağın “uçak bileti”.  
+Almayan geride kalacak, alan ise geleceğe uçacak. ✈️  
+
+Bu yüzden bu yazı bir teknik döküman değil, bir **uyarı ve davet**tir:  
+- Çağı yakalamak isteyenlere,  
+- Potansiyelini artırmak isteyenlere,  
+- Game Over olmak istemeyenlere…
+
+
+
 # 🚀 AI or Game Over  
 *Çağı yakalamak mı, çağ dışı kalmak mı?*
 
